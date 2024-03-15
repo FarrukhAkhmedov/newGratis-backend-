@@ -3,7 +3,7 @@
  
 
 <h2>Description</h2>
-The entire project consist of 3 services (tokenService, userService, postService) and 4 middlewares (auth-middleware, error-middlewere, multer-post-middlewere, multer-profile-middlewere)
+The entire project consist of 3 services (tokenService, userService, postService) and 4 middlewares (auth-middleware, error-middlewere, multer-post-middlewere, multer-profile-middlewere), in Models folder you can see the PostgreSQL tables, used in this project
 <br />
 
 
